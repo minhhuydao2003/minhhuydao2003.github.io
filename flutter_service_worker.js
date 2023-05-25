@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "533534f9bd7196e156d2818e1b4f3f84",
-"assets/assets/background/background.png": "bd772abf0e1fbc3133c068d0a02c0bda",
+  "assets/AssetManifest.json": "031f7fb61127d892ca7ca9f3bbe64ed9",
+"assets/assets/background/Background_original.png": "bd772abf0e1fbc3133c068d0a02c0bda",
 "assets/assets/elements/Decoration.png": "104cae695183c4fa76847332983c2352",
 "assets/assets/elements/PrizePool.png": "70059b8dac308f51bead09082080a105",
 "assets/assets/fonts/Redig-Regular.otf": "67f041f133348a3b2bd7ee787df4fc23",
@@ -23,9 +23,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1efac6e2b89459fa8ad75512b9e4595e",
-"/": "1efac6e2b89459fa8ad75512b9e4595e",
-"main.dart.js": "fa6d3f95107c1f55068c0ed98d100f12",
+"index.html": "861a3f75079569ba909817444183d417",
+"/": "861a3f75079569ba909817444183d417",
+"main.dart.js": "99ec2dbbecfd75fcd4f7d67a901b6bba",
 "manifest.json": "7b7083e4e54a3b4ccae703da2774f329",
 "version.json": "0b37a8e4743f2c41483eb4e27fcf36e8"
 };
