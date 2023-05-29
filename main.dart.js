@@ -51553,7 +51553,7 @@ A.a0V.prototype={
 $0(){},
 $S:0}
 A.pL.prototype={
-af(){return new A.F5(A.aO(["BETTER LUCK\n NEXT TIME!",0.15,"LANYARD",0.05," BETTER LUCK\n NEXT TIME! ",0.15,"KEYCHAIN",0.15,"  BETTER LUCK\n NEXT TIME!  ",0.15,"TOTE BAG",0.01,"   BETTER LUCK\n NEXT TIME!   ",0.15,"SMALL MOUSE PAD",0.03,"    BETTER LUCK\n NEXT TIME!    ",0.15,"LARGE MOUSE PAD",0.01],t.N,t.i),B.m)}}
+af(){return new A.F5(A.aO(["BETTER LUCK\n NEXT TIME!",0.15,"LANYARD",0.1,"BETTER LUCK\n NEXT TIME!  ",0.1,"KEYCHAIN",0.2,"BETTER LUCK\n NEXT TIME!   ",0.1,"TOTE BAG",0.01,"BETTER LUCK\n NEXT TIME! ",0.1,"SMALL MOUSE PAD",0.08," BETTER LUCK\n NEXT TIME!   ",0.15,"LARGE MOUSE PAD",0.01],t.N,t.i),B.m)}}
 A.F5.prototype={
 M(a){var s=null,r=t.w,q=a.a3(r).f.a.a,p=a.a3(r).f.a.b*0.06
 return A.a8v(B.aa,A.mD(B.aU,A.a([A.Lp(s,s,s,B.u_,s,s,s,s),A.Yl(A.a7t("assets/elements/Decoration.png"),new A.z(-q*0.03,p)),A.Yl(A.a7t("assets/elements/PrizePool.png"),new A.z(q*0.005,p)),A.KP(A.Yk(B.K,1.5707963267948966,new A.rs(this.d,s),s),s,s)],t.E),B.bg))}}
